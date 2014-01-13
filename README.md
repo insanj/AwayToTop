@@ -1,7 +1,7 @@
 Away To Top
 =======================
 
-Tap the statusbar to top your away notifications.
+Tap the statusbar to top your away notifications. Motivated by [this tweet in particular](https://twitter.com/Akadi_Nor/status/422599015264288769).
 
 ---------------------------------------
 	Simplified BSD License
